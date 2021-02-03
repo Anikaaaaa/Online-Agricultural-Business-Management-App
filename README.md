@@ -2,11 +2,7 @@
 ## Online Agricultural Bussiness App 
 This is my 4-1 Software project.
 
-Using this app anyone can sell their agricultural products which will work as a **direct bridge** among sellers and buyers in our country. 
-There is an **admin panel** for reviewing the advertisements and arranging shipping.
-Speccialized **"Agro Travel"** feature will provide the farmers with great and large areas opportunity 
-to advertise of their fields or gardens as a traveling place and ordering products insite.
-
+Using this app farmers can sell their agricultural products which will work as a direct bridge among sellers and buyers in our country. Because of third party farmers do not get their proper wages and buyer do not get fresh food. So we supposed this app would be very helpful to both seller and buyer. There is an admin panel for reviewing the advertisements and arranging shipping. We added "Agro Travel" feature. If any farmer wants to invite customer to their garden they can advertise in this section with details location and other aspects of their garden.
 ***
 
 |     |        |
